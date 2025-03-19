@@ -1,0 +1,6 @@
+openai>=1.0.0
+openai-agents>=0.0.4
+python-dotenv>=0.20.0
+pandas>=2.0.0
+datasets>=2.0.0
+slack-sdk>=3.19.0
